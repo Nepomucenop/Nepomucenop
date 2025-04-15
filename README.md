@@ -3,7 +3,7 @@
 
 
 # Sobre mim
-Sou estudante do **3º ano do Ensino Médio** do curso de informática da escola EEEP Luiza de Teodoro Vieira. Atualmente, estou estudando o curso de Suporte de TI na Coursera
+Sou estudante do **3º ano do Ensino Médio** do curso de informática da escola EEEP Luiza de Teodoro Vieira. Possuo conhecimentos iniciais em programação, pensamento lógico e resolução de problemas. Atualmente, estou estudando o curso de Suporte de TI na Coursera
 
 
 ## Conecte-se comigo
