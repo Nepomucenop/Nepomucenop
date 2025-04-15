@@ -6,9 +6,10 @@
 Sou estudante do **3º ano do Ensino Médio** do curso de informática da escola EEEP Luiza de Teodoro Vieira. Possuo conhecimentos iniciais em programação, pensamento lógico e resolução de problemas. Atualmente, estou estudando o curso de Suporte de TI na Coursera
 
 
+
+
 ## Conecte-se comigo
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nepomuceno-507342360/)
-[![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nepomuceno.pedro64@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/Nepomucenop)
 
 
